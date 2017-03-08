@@ -1,0 +1,5 @@
+name: Cloud_to_butt
+main: net.simpvp.Cloud_to_butt.Cloud_to_butt
+version: 1
+author: simpvp.net
+description: Replaces in chat "the cloud" -> "my butt", "cloud" -> "butt"
