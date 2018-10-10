@@ -1,5 +1,5 @@
 BUKKIT=../bukkit-1.11B1.jar
-JAVA=1.6
+JAVA=1.8
 PLUGIN=Cloud_to_butt
 TARGET_DIR=net
 
