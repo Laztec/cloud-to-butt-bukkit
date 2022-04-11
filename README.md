@@ -4,9 +4,8 @@ A very simple bukkit plugin that simply converts all instances in chat messages 
 
 Compiling
 -----
-Requires a Java JDK, *make*, and a bukkit jar.
-
-To compile, run `make` in the directory. To specify the bukkit jar and/or java version, run it as
+Compile using maven:
 ```
-make BUKKIT=/path/to/bukkit.jar JAVA=1.7
+mvn clean package
 ```
+and then the jar can be found at `target/Cloud_to_butt.jar`.
